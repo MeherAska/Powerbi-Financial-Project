@@ -1,9 +1,9 @@
 # Powerbi-Financial-Project
-Project Overview
+## Project Overview
 
 This project involves analyzing financial data using Power BI. The dataset consists of 24 columns related to customer financial details, including income, outstanding debt, credit mix, and more. The primary goal is to gain insights into customers' financial behavior and credit patterns.
 
-Tools & Technologies Used
+## Tools & Technologies Used
 
 Power BI: For data visualization and analysis.
 
@@ -12,7 +12,7 @@ Power Automate: Used for automating data processing tasks.
 Data Cleaning Techniques: Applied to improve data quality and remove inconsistencies.
 
 
-Data Cleaning & Processing
+## Data Cleaning & Processing
 
 To ensure data quality and accuracy, the following cleaning techniques were applied:
 
@@ -22,7 +22,7 @@ Duplicate Removal: Identified and eliminated duplicate entries.
 
 Data Type Corrections: Adjusted column data types for accurate analysis.
 
-Insights & Findings
+## Insights & Findings
 
 Credit Utilization Patterns: Identified trends in credit utilization among different customer segments.
 
